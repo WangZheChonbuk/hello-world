@@ -1,0 +1,1027 @@
+﻿Year,Age,Gender,Educational Attainment,Personal Income,Population Count
+2001/1/8 0:00,00 to 17,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",1304
+2001/1/8 0:00,00 to 17,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",1565
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","A: 0 to 4,999",1923
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"H: 75,000 and over",1981
+2001/1/8 0:00,00 to 17,Female,No high school diploma,"D: 15,000 to 24,999",2009
+2001/1/8 0:00,00 to 17,Male,No high school diploma,"F: 35,000 to 49,999",2227
+2001/1/8 0:00,00 to 17,Male,No high school diploma,"E: 25,000 to 34,999",2606
+2001/1/8 0:00,00 to 17,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",3465
+2001/1/8 0:00,00 to 17,Male,No high school diploma,"D: 15,000 to 24,999",3974
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"H: 75,000 and over",4233
+2001/1/8 0:00,00 to 17,Female,High school or equivalent,"A: 0 to 4,999",4711
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"H: 75,000 and over",5801
+2001/1/8 0:00,00 to 17,Female,No high school diploma,"C: 10,000 to 14,999",6857
+2001/1/8 0:00,00 to 17,Male,No high school diploma,"C: 10,000 to 14,999",7092
+2001/1/8 0:00,00 to 17,Female,"College, less than 4-yr degree","A: 0 to 4,999",7598
+2001/1/8 0:00,00 to 17,Female,High school or equivalent,"B: 5,000 to 9,999",7672
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"F: 35,000 to 49,999",8109
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"A: 0 to 4,999",8278
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"G: 50,000 to 74,999",8297
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"H: 75,000 and over",8527
+2001/1/8 0:00,00 to 17,Male,"College, less than 4-yr degree","A: 0 to 4,999",8664
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"H: 75,000 and over",12086
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"A: 0 to 4,999",12915
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","A: 0 to 4,999",12954
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"G: 50,000 to 74,999",13271
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"E: 25,000 to 34,999",14645
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"G: 50,000 to 74,999",15192
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"E: 25,000 to 34,999",16279
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",21902
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"F: 35,000 to 49,999",21985
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",22443
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"A: 0 to 4,999",25141
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",27004
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",27158
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"G: 50,000 to 74,999",27164
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"G: 50,000 to 74,999",29183
+2001/1/8 0:00,00 to 17,Male,No high school diploma,"B: 5,000 to 9,999",30152
+2001/1/8 0:00,00 to 17,Female,No high school diploma,"B: 5,000 to 9,999",33202
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"A: 0 to 4,999",33353
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"F: 35,000 to 49,999",34003
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"A: 0 to 4,999",34242
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","H: 75,000 and over",34723
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","H: 75,000 and over",35445
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"E: 25,000 to 34,999",37651
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"D: 15,000 to 24,999",42275
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",42390
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",42705
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",43599
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"H: 75,000 and over",44291
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",46427
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"B: 5,000 to 9,999",46783
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",48577
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"F: 35,000 to 49,999",48804
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",50596
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"F: 35,000 to 49,999",51599
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",51983
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",52069
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",54641
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"H: 75,000 and over",59350
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"H: 75,000 and over",60942
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",62955
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",64954
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",66280
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"D: 15,000 to 24,999",69185
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"A: 0 to 4,999",69280
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",70274
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"B: 5,000 to 9,999",71652
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",73070
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",73084
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"C: 10,000 to 14,999",75602
+2001/1/8 0:00,65 to 80+,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",75697
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"E: 25,000 to 34,999",78590
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",82823
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",88070
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",93823
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"E: 25,000 to 34,999",93849
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"A: 0 to 4,999",94464
+2001/1/8 0:00,65 to 80+,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",108057
+2001/1/8 0:00,65 to 80+,Male,High school or equivalent,"D: 15,000 to 24,999",108184
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"G: 50,000 to 74,999",109200
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",120242
+2001/1/8 0:00,65 to 80+,Male,No high school diploma,"C: 10,000 to 14,999",124247
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"G: 50,000 to 74,999",131571
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",131590
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",148626
+2001/1/8 0:00,65 to 80+,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",149462
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"C: 10,000 to 14,999",156811
+2001/1/8 0:00,65 to 80+,Male,Bachelor's degree or higher,"H: 75,000 and over",161013
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"B: 5,000 to 9,999",163263
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"D: 15,000 to 24,999",164592
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"H: 75,000 and over",175104
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"B: 5,000 to 9,999",178234
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","H: 75,000 and over",179877
+2001/1/8 0:00,65 to 80+,Female,No high school diploma,"C: 10,000 to 14,999",182135
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"B: 5,000 to 9,999",187833
+2001/1/8 0:00,65 to 80+,Female,High school or equivalent,"B: 5,000 to 9,999",188067
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",201443
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",211318
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"F: 35,000 to 49,999",222761
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",224732
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"A: 0 to 4,999",224757
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"C: 10,000 to 14,999",229721
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"C: 10,000 to 14,999",229724
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",236263
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","A: 0 to 4,999",237810
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"B: 5,000 to 9,999",241389
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"C: 10,000 to 14,999",241913
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"F: 35,000 to 49,999",249327
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"B: 5,000 to 9,999",252509
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"A: 0 to 4,999",261172
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"E: 25,000 to 34,999",293265
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"A: 0 to 4,999",296555
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"D: 15,000 to 24,999",317043
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"C: 10,000 to 14,999",317119
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",320338
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",327251
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"E: 25,000 to 34,999",333713
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",334679
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",345723
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",345795
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",387555
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",416638
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",418686
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"D: 15,000 to 24,999",420710
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"G: 50,000 to 74,999",424046
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"E: 25,000 to 34,999",433340
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","A: 0 to 4,999",451575
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"F: 35,000 to 49,999",472466
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","H: 75,000 and over",478470
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",496456
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",497615
+2001/1/8 0:00,18 to 64,Male,High school or equivalent,"D: 15,000 to 24,999",501296
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",503031
+2001/1/8 0:00,18 to 64,Female,High school or equivalent,"A: 0 to 4,999",528876
+2001/1/8 0:00,18 to 64,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",536363
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",539958
+2001/1/8 0:00,18 to 64,Male,No high school diploma,"D: 15,000 to 24,999",573769
+2001/1/8 0:00,18 to 64,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",591795
+2001/1/8 0:00,00 to 17,Female,No high school diploma,"A: 0 to 4,999",635274
+2001/1/8 0:00,00 to 17,Male,No high school diploma,"A: 0 to 4,999",650889
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",690627
+2001/1/8 0:00,18 to 64,Female,No high school diploma,"A: 0 to 4,999",740143
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",770798
+2001/1/8 0:00,18 to 64,Female,Bachelor's degree or higher,"H: 75,000 and over",781211
+2001/1/8 0:00,18 to 64,Male,Bachelor's degree or higher,"H: 75,000 and over",1456566
+2001/1/9 0:00,00 to 17,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",1117
+2001/1/9 0:00,00 to 17,Male,High school or equivalent,"B: 5,000 to 9,999",1185
+2001/1/9 0:00,00 to 17,Female,High school or equivalent,"D: 15,000 to 24,999",1294
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"H: 75,000 and over",1398
+2001/1/9 0:00,00 to 17,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",1780
+2001/1/9 0:00,00 to 17,Female,No high school diploma,"G: 50,000 to 74,999",1797
+2001/1/9 0:00,00 to 17,Female,No high school diploma,"F: 35,000 to 49,999",1800
+2001/1/9 0:00,00 to 17,Male,No high school diploma,"E: 25,000 to 34,999",1829
+2001/1/9 0:00,00 to 17,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",1878
+2001/1/9 0:00,00 to 17,Male,High school or equivalent,"D: 15,000 to 24,999",2520
+2001/1/9 0:00,00 to 17,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",2754
+2001/1/9 0:00,00 to 17,Male,"College, less than 4-yr degree","A: 0 to 4,999",2887
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"H: 75,000 and over",2915
+2001/1/9 0:00,00 to 17,Female,High school or equivalent,"B: 5,000 to 9,999",3169
+2001/1/9 0:00,00 to 17,Male,No high school diploma,"D: 15,000 to 24,999",3222
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"F: 35,000 to 49,999",4060
+2001/1/9 0:00,00 to 17,Female,"College, less than 4-yr degree","A: 0 to 4,999",4408
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"A: 0 to 4,999",6660
+2001/1/9 0:00,00 to 17,Male,No high school diploma,"C: 10,000 to 14,999",7651
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"G: 50,000 to 74,999",7703
+2001/1/9 0:00,00 to 17,Female,High school or equivalent,"A: 0 to 4,999",9209
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"A: 0 to 4,999",10741
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"H: 75,000 and over",10943
+2001/1/9 0:00,00 to 17,Female,No high school diploma,"C: 10,000 to 14,999",11341
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"A: 0 to 4,999",11528
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","A: 0 to 4,999",12106
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","A: 0 to 4,999",17061
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"A: 0 to 4,999",18196
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"G: 50,000 to 74,999",18475
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"H: 75,000 and over",19659
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"E: 25,000 to 34,999",20186
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",23224
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"H: 75,000 and over",23963
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"G: 50,000 to 74,999",24592
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"F: 35,000 to 49,999",24599
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"F: 35,000 to 49,999",27349
+2001/1/9 0:00,00 to 17,Female,No high school diploma,"B: 5,000 to 9,999",29280
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",30456
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"F: 35,000 to 49,999",30741
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","H: 75,000 and over",33358
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",34492
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"G: 50,000 to 74,999",35227
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",36484
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"B: 5,000 to 9,999",37770
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",39410
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"E: 25,000 to 34,999",41437
+2001/1/9 0:00,00 to 17,Male,No high school diploma,"B: 5,000 to 9,999",41863
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"G: 50,000 to 74,999",42710
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"A: 0 to 4,999",43907
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"H: 75,000 and over",48803
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"E: 25,000 to 34,999",50987
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",52607
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",55910
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"H: 75,000 and over",57029
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",57036
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"H: 75,000 and over",57292
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",57811
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","H: 75,000 and over",58478
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"E: 25,000 to 34,999",58811
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",58901
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"F: 35,000 to 49,999",59302
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",59529
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",61489
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"D: 15,000 to 24,999",64082
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"D: 15,000 to 24,999",64958
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",68234
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",69546
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",70367
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",70495
+2001/1/9 0:00,65 to 80+,Male,High school or equivalent,"C: 10,000 to 14,999",71193
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"B: 5,000 to 9,999",71415
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"D: 15,000 to 24,999",72908
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"A: 0 to 4,999",73024
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",75617
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",76215
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",77792
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"G: 50,000 to 74,999",79922
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",81764
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",84122
+2001/1/9 0:00,65 to 80+,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",85667
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"E: 25,000 to 34,999",86580
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"A: 0 to 4,999",88688
+2001/1/9 0:00,65 to 80+,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",88779
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",89119
+2001/1/9 0:00,65 to 80+,Male,No high school diploma,"C: 10,000 to 14,999",98666
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",109490
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"B: 5,000 to 9,999",116176
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"G: 50,000 to 74,999",134763
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",136360
+2001/1/9 0:00,65 to 80+,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",140082
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"C: 10,000 to 14,999",149933
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"C: 10,000 to 14,999",151357
+2001/1/9 0:00,65 to 80+,Female,High school or equivalent,"D: 15,000 to 24,999",152036
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",160748
+2001/1/9 0:00,65 to 80+,Female,No high school diploma,"B: 5,000 to 9,999",178289
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"H: 75,000 and over",190948
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","H: 75,000 and over",200198
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",201713
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","A: 0 to 4,999",212039
+2001/1/9 0:00,65 to 80+,Male,Bachelor's degree or higher,"H: 75,000 and over",212440
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"C: 10,000 to 14,999",213345
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"B: 5,000 to 9,999",216871
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"C: 10,000 to 14,999",221787
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"B: 5,000 to 9,999",229865
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"B: 5,000 to 9,999",234527
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"F: 35,000 to 49,999",234705
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",235730
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"A: 0 to 4,999",243154
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"F: 35,000 to 49,999",247159
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"B: 5,000 to 9,999",248027
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",251200
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"C: 10,000 to 14,999",255296
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"C: 10,000 to 14,999",278224
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"A: 0 to 4,999",280947
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",288174
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"A: 0 to 4,999",296927
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"E: 25,000 to 34,999",307653
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",311511
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"E: 25,000 to 34,999",318602
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",320129
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",345944
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",347119
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"G: 50,000 to 74,999",350784
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"D: 15,000 to 24,999",359624
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",366170
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",370518
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",375408
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","A: 0 to 4,999",387007
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",392488
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"E: 25,000 to 34,999",440200
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"D: 15,000 to 24,999",450205
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",454455
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",459975
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"F: 35,000 to 49,999",481130
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",486983
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",495664
+2001/1/9 0:00,18 to 64,Male,High school or equivalent,"D: 15,000 to 24,999",503750
+2001/1/9 0:00,18 to 64,Female,High school or equivalent,"A: 0 to 4,999",519946
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","H: 75,000 and over",521502
+2001/1/9 0:00,18 to 64,Male,No high school diploma,"D: 15,000 to 24,999",534542
+2001/1/9 0:00,18 to 64,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",584200
+2001/1/9 0:00,00 to 17,Male,No high school diploma,"A: 0 to 4,999",629969
+2001/1/9 0:00,18 to 64,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",647024
+2001/1/9 0:00,00 to 17,Female,No high school diploma,"A: 0 to 4,999",648149
+2001/1/9 0:00,18 to 64,Female,No high school diploma,"A: 0 to 4,999",654156
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"H: 75,000 and over",682401
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",682775
+2001/1/9 0:00,18 to 64,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",767013
+2001/1/9 0:00,18 to 64,Male,Bachelor's degree or higher,"H: 75,000 and over",1497839
+2001/1/10 0:00,00 to 17,Female,High school or equivalent,"E: 25,000 to 34,999",1048
+2001/1/10 0:00,00 to 17,Male,Bachelor's degree or higher,"H: 75,000 and over",1192
+2001/1/10 0:00,00 to 17,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",1434
+2001/1/10 0:00,00 to 17,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",1447
+2001/1/10 0:00,00 to 17,Female,High school or equivalent,"C: 10,000 to 14,999",1660
+2001/1/10 0:00,00 to 17,Male,High school or equivalent,"C: 10,000 to 14,999",1817
+2001/1/10 0:00,00 to 17,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",2683
+2001/1/10 0:00,00 to 17,Female,Bachelor's degree or higher,"A: 0 to 4,999",2879
+2001/1/10 0:00,00 to 17,Female,High school or equivalent,"B: 5,000 to 9,999",3641
+2001/1/10 0:00,00 to 17,Male,No high school diploma,"F: 35,000 to 49,999",3642
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"H: 75,000 and over",4876
+2001/1/10 0:00,00 to 17,Male,No high school diploma,"C: 10,000 to 14,999",5345
+2001/1/10 0:00,00 to 17,Female,High school or equivalent,"A: 0 to 4,999",5811
+2001/1/10 0:00,00 to 17,Female,No high school diploma,"D: 15,000 to 24,999",6386
+2001/1/10 0:00,00 to 17,Female,No high school diploma,"C: 10,000 to 14,999",6967
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"H: 75,000 and over",8432
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"G: 50,000 to 74,999",8606
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"F: 35,000 to 49,999",8907
+2001/1/10 0:00,00 to 17,Male,No high school diploma,"D: 15,000 to 24,999",9139
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","A: 0 to 4,999",9228
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"E: 25,000 to 34,999",11302
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"G: 50,000 to 74,999",13619
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"A: 0 to 4,999",14892
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"H: 75,000 and over",15038
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"G: 50,000 to 74,999",18515
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"A: 0 to 4,999",18733
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"H: 75,000 and over",20167
+2001/1/10 0:00,00 to 17,Male,No high school diploma,"B: 5,000 to 9,999",21116
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"H: 75,000 and over",22945
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",23578
+2001/1/10 0:00,00 to 17,Female,No high school diploma,"B: 5,000 to 9,999",24781
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"A: 0 to 4,999",24958
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","A: 0 to 4,999",25882
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"F: 35,000 to 49,999",27814
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"A: 0 to 4,999",28702
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"E: 25,000 to 34,999",28729
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",28867
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","H: 75,000 and over",30088
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"B: 5,000 to 9,999",30722
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"F: 35,000 to 49,999",35129
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"G: 50,000 to 74,999",35909
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"A: 0 to 4,999",38084
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"H: 75,000 and over",38266
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"F: 35,000 to 49,999",38792
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",39453
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"F: 35,000 to 49,999",40875
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",41076
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"H: 75,000 and over",43721
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",45842
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",46221
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","H: 75,000 and over",51157
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"G: 50,000 to 74,999",51319
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",55103
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"D: 15,000 to 24,999",57098
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"E: 25,000 to 34,999",58847
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",60002
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"E: 25,000 to 34,999",62167
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",64614
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",65563
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"C: 10,000 to 14,999",67289
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"A: 0 to 4,999",72036
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",73450
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",73522
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"H: 75,000 and over",73833
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"B: 5,000 to 9,999",75130
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",75754
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",76520
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",78561
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",79453
+2001/1/10 0:00,65 to 80+,Male,High school or equivalent,"D: 15,000 to 24,999",79553
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"D: 15,000 to 24,999",81088
+2001/1/10 0:00,65 to 80+,Male,No high school diploma,"C: 10,000 to 14,999",81385
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",82404
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",85110
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",90675
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"G: 50,000 to 74,999",93885
+2001/1/10 0:00,65 to 80+,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",98499
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",103469
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",104478
+2001/1/10 0:00,65 to 80+,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",107427
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"E: 25,000 to 34,999",107504
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"A: 0 to 4,999",108052
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",111055
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",127848
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",133220
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"B: 5,000 to 9,999",136110
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"G: 50,000 to 74,999",136694
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"B: 5,000 to 9,999",138923
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"D: 15,000 to 24,999",138952
+2001/1/10 0:00,65 to 80+,Female,High school or equivalent,"C: 10,000 to 14,999",141254
+2001/1/10 0:00,65 to 80+,Female,No high school diploma,"C: 10,000 to 14,999",146005
+2001/1/10 0:00,65 to 80+,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",152795
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",168951
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","H: 75,000 and over",184398
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"B: 5,000 to 9,999",190829
+2001/1/10 0:00,65 to 80+,Male,Bachelor's degree or higher,"H: 75,000 and over",192339
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"F: 35,000 to 49,999",192622
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"C: 10,000 to 14,999",209509
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"H: 75,000 and over",215851
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",220408
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"F: 35,000 to 49,999",225261
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"B: 5,000 to 9,999",226209
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",234677
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",234951
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"B: 5,000 to 9,999",236424
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",239971
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"E: 25,000 to 34,999",244978
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"B: 5,000 to 9,999",252271
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"C: 10,000 to 14,999",253247
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"A: 0 to 4,999",269680
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"C: 10,000 to 14,999",276576
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"D: 15,000 to 24,999",287963
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"C: 10,000 to 14,999",295536
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",305706
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","A: 0 to 4,999",310460
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",321434
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",325516
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"G: 50,000 to 74,999",339017
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"A: 0 to 4,999",345253
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",356706
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"E: 25,000 to 34,999",363540
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"A: 0 to 4,999",369566
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",374128
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",374227
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",386929
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",408505
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"E: 25,000 to 34,999",412122
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"D: 15,000 to 24,999",436288
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","H: 75,000 and over",441967
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",442917
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","A: 0 to 4,999",443607
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"F: 35,000 to 49,999",470369
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",474116
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",491109
+2001/1/10 0:00,18 to 64,Female,High school or equivalent,"A: 0 to 4,999",496567
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",516029
+2001/1/10 0:00,18 to 64,Male,High school or equivalent,"D: 15,000 to 24,999",533513
+2001/1/10 0:00,18 to 64,Male,No high school diploma,"D: 15,000 to 24,999",535027
+2001/1/10 0:00,18 to 64,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",567753
+2001/1/10 0:00,18 to 64,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",581119
+2001/1/10 0:00,00 to 17,Male,No high school diploma,"A: 0 to 4,999",596761
+2001/1/10 0:00,00 to 17,Female,No high school diploma,"A: 0 to 4,999",610512
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",624308
+2001/1/10 0:00,18 to 64,Female,No high school diploma,"A: 0 to 4,999",666858
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",687153
+2001/1/10 0:00,18 to 64,Female,Bachelor's degree or higher,"H: 75,000 and over",755781
+2001/1/10 0:00,18 to 64,Male,Bachelor's degree or higher,"H: 75,000 and over",1424758
+2001/1/11 0:00,00 to 17,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",1209
+2001/1/11 0:00,00 to 17,Male,High school or equivalent,"D: 15,000 to 24,999",1312
+2001/1/11 0:00,00 to 17,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",1324
+2001/1/11 0:00,00 to 17,Male,High school or equivalent,"C: 10,000 to 14,999",1328
+2001/1/11 0:00,00 to 17,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",1614
+2001/1/11 0:00,00 to 17,Male,"College, less than 4-yr degree","H: 75,000 and over",1618
+2001/1/11 0:00,00 to 17,Male,No high school diploma,"F: 35,000 to 49,999",1647
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"H: 75,000 and over",1686
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"H: 75,000 and over",2190
+2001/1/11 0:00,00 to 17,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",2394
+2001/1/11 0:00,00 to 17,Female,High school or equivalent,"C: 10,000 to 14,999",2561
+2001/1/11 0:00,00 to 17,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",2859
+2001/1/11 0:00,00 to 17,Male,No high school diploma,"E: 25,000 to 34,999",3220
+2001/1/11 0:00,00 to 17,Female,"College, less than 4-yr degree","A: 0 to 4,999",4089
+2001/1/11 0:00,00 to 17,Male,"College, less than 4-yr degree","A: 0 to 4,999",4421
+2001/1/11 0:00,00 to 17,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",4503
+2001/1/11 0:00,00 to 17,Male,High school or equivalent,"A: 0 to 4,999",5434
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"G: 50,000 to 74,999",5966
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"G: 50,000 to 74,999",6419
+2001/1/11 0:00,00 to 17,Female,High school or equivalent,"A: 0 to 4,999",6903
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"H: 75,000 and over",7168
+2001/1/11 0:00,00 to 17,Male,No high school diploma,"C: 10,000 to 14,999",9049
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"H: 75,000 and over",9363
+2001/1/11 0:00,00 to 17,Male,No high school diploma,"D: 15,000 to 24,999",10327
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"H: 75,000 and over",10372
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"F: 35,000 to 49,999",10588
+2001/1/11 0:00,00 to 17,Female,No high school diploma,"C: 10,000 to 14,999",13283
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"E: 25,000 to 34,999",13821
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","A: 0 to 4,999",15250
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"B: 5,000 to 9,999",16777
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"G: 50,000 to 74,999",18925
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"F: 35,000 to 49,999",20806
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"E: 25,000 to 34,999",21236
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"A: 0 to 4,999",21851
+2001/1/11 0:00,00 to 17,Male,No high school diploma,"B: 5,000 to 9,999",22729
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",25292
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"A: 0 to 4,999",25812
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"A: 0 to 4,999",25829
+2001/1/11 0:00,00 to 17,Female,No high school diploma,"B: 5,000 to 9,999",25907
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"G: 50,000 to 74,999",27438
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"A: 0 to 4,999",27629
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",28190
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","A: 0 to 4,999",29080
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","H: 75,000 and over",33485
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"F: 35,000 to 49,999",34214
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",37367
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"G: 50,000 to 74,999",38236
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"H: 75,000 and over",38335
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"A: 0 to 4,999",43062
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",43331
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",47668
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",49166
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"H: 75,000 and over",51155
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"F: 35,000 to 49,999",52376
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",53447
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",54755
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"F: 35,000 to 49,999",57985
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",58285
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"B: 5,000 to 9,999",63343
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"E: 25,000 to 34,999",64250
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","H: 75,000 and over",64832
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"E: 25,000 to 34,999",65587
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",66646
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",67525
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"D: 15,000 to 24,999",68997
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",71541
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"H: 75,000 and over",75921
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"A: 0 to 4,999",77617
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"D: 15,000 to 24,999",80402
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",80989
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"C: 10,000 to 14,999",82082
+2001/1/11 0:00,65 to 80+,Male,No high school diploma,"C: 10,000 to 14,999",86809
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",87337
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",88513
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",90812
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"E: 25,000 to 34,999",91755
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",92725
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",97326
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"G: 50,000 to 74,999",100776
+2001/1/11 0:00,65 to 80+,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",100794
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",102391
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",106705
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",107745
+2001/1/11 0:00,65 to 80+,Male,High school or equivalent,"D: 15,000 to 24,999",107748
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"A: 0 to 4,999",113687
+2001/1/11 0:00,65 to 80+,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",114697
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",121211
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"C: 10,000 to 14,999",125104
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",126768
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"G: 50,000 to 74,999",139946
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"B: 5,000 to 9,999",140300
+2001/1/11 0:00,65 to 80+,Female,High school or equivalent,"D: 15,000 to 24,999",148331
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",148745
+2001/1/11 0:00,65 to 80+,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",152093
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"C: 10,000 to 14,999",152780
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",170533
+2001/1/11 0:00,65 to 80+,Male,Bachelor's degree or higher,"H: 75,000 and over",175775
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"F: 35,000 to 49,999",175841
+2001/1/11 0:00,65 to 80+,Female,No high school diploma,"B: 5,000 to 9,999",175975
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"B: 5,000 to 9,999",177781
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"B: 5,000 to 9,999",179616
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"H: 75,000 and over",188373
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","H: 75,000 and over",194826
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",230412
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",231167
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"B: 5,000 to 9,999",246973
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",248724
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"C: 10,000 to 14,999",264534
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"A: 0 to 4,999",266304
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"C: 10,000 to 14,999",273029
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",286343
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",288293
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"C: 10,000 to 14,999",288850
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"B: 5,000 to 9,999",291364
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"E: 25,000 to 34,999",295383
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"D: 15,000 to 24,999",301428
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"C: 10,000 to 14,999",305265
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"F: 35,000 to 49,999",311597
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",314317
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"E: 25,000 to 34,999",323001
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",323702
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",331666
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","A: 0 to 4,999",331991
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",353200
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"A: 0 to 4,999",359401
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",367713
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",368797
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"G: 50,000 to 74,999",387890
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",412679
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"E: 25,000 to 34,999",422294
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"D: 15,000 to 24,999",425683
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",427109
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"A: 0 to 4,999",450644
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",460822
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","H: 75,000 and over",462728
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"F: 35,000 to 49,999",477882
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",480546
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",483781
+2001/1/11 0:00,18 to 64,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",489968
+2001/1/11 0:00,18 to 64,Male,High school or equivalent,"D: 15,000 to 24,999",519889
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","A: 0 to 4,999",525597
+2001/1/11 0:00,18 to 64,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",542492
+2001/1/11 0:00,18 to 64,Male,No high school diploma,"D: 15,000 to 24,999",546856
+2001/1/11 0:00,18 to 64,Female,High school or equivalent,"A: 0 to 4,999",575559
+2001/1/11 0:00,00 to 17,Female,No high school diploma,"A: 0 to 4,999",634048
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",644826
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",676522
+2001/1/11 0:00,00 to 17,Male,No high school diploma,"A: 0 to 4,999",679824
+2001/1/11 0:00,18 to 64,Female,No high school diploma,"A: 0 to 4,999",748885
+2001/1/11 0:00,18 to 64,Female,Bachelor's degree or higher,"H: 75,000 and over",777479
+2001/1/11 0:00,18 to 64,Male,Bachelor's degree or higher,"H: 75,000 and over",1396795
+2001/1/12 0:00,00 to 17,Male,No high school diploma,"E: 25,000 to 34,999",1104
+2001/1/12 0:00,00 to 17,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",1198
+2001/1/12 0:00,00 to 17,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",1198
+2001/1/12 0:00,00 to 17,Female,No high school diploma,"H: 75,000 and over",1553
+2001/1/12 0:00,00 to 17,Male,No high school diploma,"F: 35,000 to 49,999",1636
+2001/1/12 0:00,00 to 17,Male,Bachelor's degree or higher,"A: 0 to 4,999",1680
+2001/1/12 0:00,00 to 17,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",1871
+2001/1/12 0:00,00 to 17,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",2046
+2001/1/12 0:00,00 to 17,Female,No high school diploma,"D: 15,000 to 24,999",2075
+2001/1/12 0:00,00 to 17,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",3208
+2001/1/12 0:00,00 to 17,Female,"College, less than 4-yr degree","A: 0 to 4,999",4102
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"H: 75,000 and over",4142
+2001/1/12 0:00,00 to 17,Male,No high school diploma,"C: 10,000 to 14,999",4166
+2001/1/12 0:00,00 to 17,Female,No high school diploma,"C: 10,000 to 14,999",5318
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","A: 0 to 4,999",6274
+2001/1/12 0:00,00 to 17,Female,High school or equivalent,"A: 0 to 4,999",6291
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"G: 50,000 to 74,999",7581
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"H: 75,000 and over",7813
+2001/1/12 0:00,65 to 80+,Female,No high school diploma,"E: 25,000 to 34,999",8966
+2001/1/12 0:00,65 to 80+,Female,No high school diploma,"G: 50,000 to 74,999",9308
+2001/1/12 0:00,65 to 80+,Female,No high school diploma,"F: 35,000 to 49,999",9325
+2001/1/12 0:00,00 to 17,Male,No high school diploma,"D: 15,000 to 24,999",9647
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"A: 0 to 4,999",11184
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"G: 50,000 to 74,999",12515
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"A: 0 to 4,999",14562
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",16823
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"F: 35,000 to 49,999",19530
+2001/1/12 0:00,65 to 80+,Male,High school or equivalent,"H: 75,000 and over",21430
+2001/1/12 0:00,65 to 80+,Male,High school or equivalent,"G: 50,000 to 74,999",21505
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","H: 75,000 and over",23888
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"H: 75,000 and over",26205
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",27496
+2001/1/12 0:00,00 to 17,Female,No high school diploma,"B: 5,000 to 9,999",27841
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","A: 0 to 4,999",28392
+2001/1/12 0:00,00 to 17,Male,No high school diploma,"B: 5,000 to 9,999",28609
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"F: 35,000 to 49,999",31925
+2001/1/12 0:00,65 to 80+,Male,High school or equivalent,"B: 5,000 to 9,999",34505
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",34919
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"G: 50,000 to 74,999",35359
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"H: 75,000 and over",37162
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"E: 25,000 to 34,999",38125
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",39590
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"A: 0 to 4,999",40812
+2001/1/12 0:00,65 to 80+,Male,High school or equivalent,"C: 10,000 to 14,999",42768
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"F: 35,000 to 49,999",43410
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",43737
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"A: 0 to 4,999",43797
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"H: 75,000 and over",55907
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",57101
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","H: 75,000 and over",59412
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",61123
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",61326
+2001/1/12 0:00,65 to 80+,Male,High school or equivalent,"F: 35,000 to 49,999",62391
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",62706
+2001/1/12 0:00,65 to 80+,Male,High school or equivalent,"E: 25,000 to 34,999",63083
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"E: 25,000 to 34,999",65999
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"B: 5,000 to 9,999",66775
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",68744
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"H: 75,000 and over",71088
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",71204
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",74258
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",75288
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"D: 15,000 to 24,999",75781
+2001/1/12 0:00,65 to 80+,Female,No high school diploma,"A: 0 to 4,999",78939
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",81133
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",81556
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",84310
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",84364
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"G: 50,000 to 74,999",85944
+2001/1/12 0:00,65 to 80+,Male,No high school diploma,"C: 10,000 to 14,999",87788
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",91063
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",92147
+2001/1/12 0:00,65 to 80+,Female,No high school diploma,"D: 15,000 to 24,999",93246
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"E: 25,000 to 34,999",98037
+2001/1/12 0:00,65 to 80+,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",99010
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",103317
+2001/1/12 0:00,65 to 80+,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",106452
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",106794
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",107542
+2001/1/12 0:00,65 to 80+,Male,High school or equivalent,"D: 15,000 to 24,999",122757
+2001/1/12 0:00,65 to 80+,Female,No high school diploma,"C: 10,000 to 14,999",128893
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"G: 50,000 to 74,999",132765
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",136530
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"B: 5,000 to 9,999",138731
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"A: 0 to 4,999",143162
+2001/1/12 0:00,65 to 80+,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",146503
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",147701
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"H: 75,000 and over",168064
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"C: 10,000 to 14,999",168905
+2001/1/12 0:00,65 to 80+,Female,No high school diploma,"B: 5,000 to 9,999",171363
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",181728
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","H: 75,000 and over",200267
+2001/1/12 0:00,65 to 80+,Female,High school or equivalent,"D: 15,000 to 24,999",202994
+2001/1/12 0:00,65 to 80+,Male,Bachelor's degree or higher,"H: 75,000 and over",207930
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"F: 35,000 to 49,999",220388
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"B: 5,000 to 9,999",223998
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",226292
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",229693
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"B: 5,000 to 9,999",234399
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"C: 10,000 to 14,999",249688
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",254478
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"F: 35,000 to 49,999",255299
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"B: 5,000 to 9,999",279793
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",283574
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"E: 25,000 to 34,999",285220
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"C: 10,000 to 14,999",285836
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"B: 5,000 to 9,999",289183
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"C: 10,000 to 14,999",291838
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",295051
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"C: 10,000 to 14,999",296619
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",310527
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"E: 25,000 to 34,999",317656
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"D: 15,000 to 24,999",335644
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"A: 0 to 4,999",337101
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",340166
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"A: 0 to 4,999",357363
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",364362
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",366349
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",375121
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","A: 0 to 4,999",385337
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"G: 50,000 to 74,999",387094
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",402570
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"E: 25,000 to 34,999",403456
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"F: 35,000 to 49,999",430104
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",438565
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",449158
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"A: 0 to 4,999",453889
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",456854
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",457806
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",471354
+2001/1/12 0:00,18 to 64,Male,"College, less than 4-yr degree","H: 75,000 and over",477728
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"D: 15,000 to 24,999",478261
+2001/1/12 0:00,18 to 64,Male,No high school diploma,"D: 15,000 to 24,999",478466
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",485498
+2001/1/12 0:00,18 to 64,Male,High school or equivalent,"D: 15,000 to 24,999",533300
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","A: 0 to 4,999",544361
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",552522
+2001/1/12 0:00,18 to 64,Female,High school or equivalent,"A: 0 to 4,999",569172
+2001/1/12 0:00,18 to 64,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",609758
+2001/1/12 0:00,00 to 17,Female,No high school diploma,"A: 0 to 4,999",641084
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",684421
+2001/1/12 0:00,00 to 17,Male,No high school diploma,"A: 0 to 4,999",705113
+2001/1/12 0:00,18 to 64,Female,No high school diploma,"A: 0 to 4,999",719609
+2001/1/12 0:00,18 to 64,Female,Bachelor's degree or higher,"H: 75,000 and over",829905
+2001/1/12 0:00,18 to 64,Male,Bachelor's degree or higher,"H: 75,000 and over",1511773
+2001/1/13 0:00,00 to 17,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",1283
+2001/1/13 0:00,00 to 17,Male,High school or equivalent,"B: 5,000 to 9,999",1405
+2001/1/13 0:00,00 to 17,Male,No high school diploma,"E: 25,000 to 34,999",1435
+2001/1/13 0:00,00 to 17,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",1689
+2001/1/13 0:00,00 to 17,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",1956
+2001/1/13 0:00,00 to 17,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",2212
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"H: 75,000 and over",3026
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"H: 75,000 and over",3886
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","A: 0 to 4,999",4295
+2001/1/13 0:00,00 to 17,Female,"College, less than 4-yr degree","A: 0 to 4,999",4419
+2001/1/13 0:00,00 to 17,Male,No high school diploma,"C: 10,000 to 14,999",4907
+2001/1/13 0:00,00 to 17,Female,No high school diploma,"D: 15,000 to 24,999",5073
+2001/1/13 0:00,00 to 17,Male,No high school diploma,"D: 15,000 to 24,999",6336
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"G: 50,000 to 74,999",7600
+2001/1/13 0:00,00 to 17,Female,High school or equivalent,"B: 5,000 to 9,999",8226
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"H: 75,000 and over",8493
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"F: 35,000 to 49,999",8609
+2001/1/13 0:00,00 to 17,Female,High school or equivalent,"A: 0 to 4,999",8651
+2001/1/13 0:00,00 to 17,Female,No high school diploma,"C: 10,000 to 14,999",10299
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"E: 25,000 to 34,999",11131
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","A: 0 to 4,999",13731
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"A: 0 to 4,999",13764
+2001/1/13 0:00,00 to 17,Male,No high school diploma,"B: 5,000 to 9,999",14929
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"G: 50,000 to 74,999",15944
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"G: 50,000 to 74,999",20412
+2001/1/13 0:00,65 to 80+,Male,No high school diploma,"F: 35,000 to 49,999",21275
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",21398
+2001/1/13 0:00,00 to 17,Female,No high school diploma,"B: 5,000 to 9,999",21792
+2001/1/13 0:00,65 to 80+,Male,No high school diploma,"E: 25,000 to 34,999",23400
+2001/1/13 0:00,65 to 80+,Male,No high school diploma,"G: 50,000 to 74,999",24001
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"A: 0 to 4,999",24761
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"H: 75,000 and over",26720
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"G: 50,000 to 74,999",26962
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"A: 0 to 4,999",29147
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"F: 35,000 to 49,999",29427
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"H: 75,000 and over",30760
+2001/1/13 0:00,65 to 80+,Male,No high school diploma,"A: 0 to 4,999",32602
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",33040
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"E: 25,000 to 34,999",36333
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",38857
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","H: 75,000 and over",39607
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",40105
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"B: 5,000 to 9,999",41378
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"A: 0 to 4,999",43226
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"D: 15,000 to 24,999",46652
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",48558
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",49614
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",49722
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"F: 35,000 to 49,999",52529
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"F: 35,000 to 49,999",52571
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"C: 10,000 to 14,999",53241
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",56178
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",57827
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",58537
+2001/1/13 0:00,65 to 80+,Male,No high school diploma,"D: 15,000 to 24,999",59541
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"H: 75,000 and over",61381
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",67986
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","H: 75,000 and over",70476
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",70534
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"A: 0 to 4,999",70893
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",72542
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"E: 25,000 to 34,999",74106
+2001/1/13 0:00,65 to 80+,Male,No high school diploma,"B: 5,000 to 9,999",75138
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",85075
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"G: 50,000 to 74,999",86281
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",86950
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",87412
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",88804
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",89569
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",90111
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"H: 75,000 and over",94383
+2001/1/13 0:00,65 to 80+,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",94601
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"E: 25,000 to 34,999",99143
+2001/1/13 0:00,65 to 80+,Male,No high school diploma,"C: 10,000 to 14,999",102504
+2001/1/13 0:00,65 to 80+,Male,High school or equivalent,"D: 15,000 to 24,999",112400
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"B: 5,000 to 9,999",112957
+2001/1/13 0:00,65 to 80+,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",121937
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",122689
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",125136
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",125756
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",131819
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"G: 50,000 to 74,999",134465
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"A: 0 to 4,999",138459
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"B: 5,000 to 9,999",150694
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",160795
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"F: 35,000 to 49,999",163709
+2001/1/13 0:00,65 to 80+,Female,No high school diploma,"C: 10,000 to 14,999",177955
+2001/1/13 0:00,65 to 80+,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",181219
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"B: 5,000 to 9,999",184943
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"C: 10,000 to 14,999",194765
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",199405
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","H: 75,000 and over",200690
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"B: 5,000 to 9,999",209881
+2001/1/13 0:00,65 to 80+,Female,High school or equivalent,"D: 15,000 to 24,999",221218
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"B: 5,000 to 9,999",225537
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"C: 10,000 to 14,999",229231
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"H: 75,000 and over",235147
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"F: 35,000 to 49,999",238689
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"B: 5,000 to 9,999",245728
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"C: 10,000 to 14,999",248722
+2001/1/13 0:00,65 to 80+,Male,Bachelor's degree or higher,"H: 75,000 and over",250033
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",252257
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",258589
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"C: 10,000 to 14,999",258773
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"C: 10,000 to 14,999",265604
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",282909
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"D: 15,000 to 24,999",284092
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",287720
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"E: 25,000 to 34,999",287918
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"E: 25,000 to 34,999",293672
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"A: 0 to 4,999",325064
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"G: 50,000 to 74,999",334524
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",340393
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"A: 0 to 4,999",348812
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",350595
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","A: 0 to 4,999",356010
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"A: 0 to 4,999",372961
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",380107
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",384072
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",399381
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",405494
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"D: 15,000 to 24,999",425530
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",432793
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"E: 25,000 to 34,999",438925
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",449846
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",453189
+2001/1/13 0:00,18 to 64,Male,High school or equivalent,"F: 35,000 to 49,999",456199
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"D: 15,000 to 24,999",466935
+2001/1/13 0:00,18 to 64,Male,No high school diploma,"D: 15,000 to 24,999",473160
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",473400
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","H: 75,000 and over",490899
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",497833
+2001/1/13 0:00,18 to 64,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",502982
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",510047
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","A: 0 to 4,999",531822
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",599541
+2001/1/13 0:00,18 to 64,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",617513
+2001/1/13 0:00,18 to 64,Female,No high school diploma,"A: 0 to 4,999",637445
+2001/1/13 0:00,00 to 17,Female,No high school diploma,"A: 0 to 4,999",652219
+2001/1/13 0:00,00 to 17,Male,No high school diploma,"A: 0 to 4,999",660627
+2001/1/13 0:00,18 to 64,Female,High school or equivalent,"A: 0 to 4,999",664769
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",675331
+2001/1/13 0:00,18 to 64,Female,Bachelor's degree or higher,"H: 75,000 and over",917079
+2001/1/13 0:00,18 to 64,Male,Bachelor's degree or higher,"H: 75,000 and over",1643095
+2001/1/14 0:00,00 to 17,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",1356
+2001/1/14 0:00,00 to 17,Female,High school or equivalent,"B: 5,000 to 9,999",1583
+2001/1/14 0:00,00 to 17,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",1664
+2001/1/14 0:00,00 to 17,Male,High school or equivalent,"B: 5,000 to 9,999",2048
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"H: 75,000 and over",2058
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"H: 75,000 and over",2153
+2001/1/14 0:00,00 to 17,Female,High school or equivalent,"E: 25,000 to 34,999",2190
+2001/1/14 0:00,00 to 17,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",2471
+2001/1/14 0:00,00 to 17,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",2776
+2001/1/14 0:00,00 to 17,Female,High school or equivalent,"D: 15,000 to 24,999",3116
+2001/1/14 0:00,00 to 17,Female,No high school diploma,"G: 50,000 to 74,999",3265
+2001/1/14 0:00,00 to 17,Male,No high school diploma,"D: 15,000 to 24,999",3920
+2001/1/14 0:00,00 to 17,Male,High school or equivalent,"C: 10,000 to 14,999",4355
+2001/1/14 0:00,65 to 80+,Female,No high school diploma,"G: 50,000 to 74,999",4666
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"H: 75,000 and over",7122
+2001/1/14 0:00,65 to 80+,Female,No high school diploma,"F: 35,000 to 49,999",7261
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"G: 50,000 to 74,999",8569
+2001/1/14 0:00,00 to 17,Male,No high school diploma,"C: 10,000 to 14,999",11857
+2001/1/14 0:00,00 to 17,Female,No high school diploma,"C: 10,000 to 14,999",13768
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"G: 50,000 to 74,999",14635
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"F: 35,000 to 49,999",15212
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",15423
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"A: 0 to 4,999",15459
+2001/1/14 0:00,00 to 17,Male,High school or equivalent,"A: 0 to 4,999",15741
+2001/1/14 0:00,00 to 17,Female,No high school diploma,"B: 5,000 to 9,999",15795
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"A: 0 to 4,999",19286
+2001/1/14 0:00,65 to 80+,Female,No high school diploma,"E: 25,000 to 34,999",23657
+2001/1/14 0:00,00 to 17,Male,No high school diploma,"B: 5,000 to 9,999",26380
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","A: 0 to 4,999",27344
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",28093
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"A: 0 to 4,999",28914
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"A: 0 to 4,999",31263
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"E: 25,000 to 34,999",32058
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","A: 0 to 4,999",32604
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"G: 50,000 to 74,999",34110
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"H: 75,000 and over",36180
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",36463
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"G: 50,000 to 74,999",40307
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"B: 5,000 to 9,999",40404
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","H: 75,000 and over",42633
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"F: 35,000 to 49,999",43218
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"B: 5,000 to 9,999",44824
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",45185
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"H: 75,000 and over",52375
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",53141
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","H: 75,000 and over",54704
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"H: 75,000 and over",54734
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"F: 35,000 to 49,999",55265
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"A: 0 to 4,999",57461
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",59607
+2001/1/14 0:00,65 to 80+,Female,No high school diploma,"D: 15,000 to 24,999",60502
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"E: 25,000 to 34,999",61889
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",62471
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",63144
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",64166
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"F: 35,000 to 49,999",64170
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"C: 10,000 to 14,999",66527
+2001/1/14 0:00,65 to 80+,Female,No high school diploma,"A: 0 to 4,999",73275
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",74877
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"B: 5,000 to 9,999",76573
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"D: 15,000 to 24,999",76893
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"E: 25,000 to 34,999",80555
+2001/1/14 0:00,65 to 80+,Male,No high school diploma,"C: 10,000 to 14,999",81810
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",82988
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",83427
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",85356
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"B: 5,000 to 9,999",86481
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",95482
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",96958
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",97657
+2001/1/14 0:00,65 to 80+,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",101765
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",103998
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"C: 10,000 to 14,999",104462
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",104583
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"G: 50,000 to 74,999",104646
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"H: 75,000 and over",110009
+2001/1/14 0:00,65 to 80+,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",113584
+2001/1/14 0:00,65 to 80+,Male,High school or equivalent,"D: 15,000 to 24,999",116746
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"E: 25,000 to 34,999",120389
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",120656
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"G: 50,000 to 74,999",128589
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",135938
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"B: 5,000 to 9,999",148975
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"C: 10,000 to 14,999",152945
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",154551
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","H: 75,000 and over",155579
+2001/1/14 0:00,65 to 80+,Female,No high school diploma,"B: 5,000 to 9,999",158180
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"B: 5,000 to 9,999",158572
+2001/1/14 0:00,65 to 80+,Female,No high school diploma,"C: 10,000 to 14,999",161001
+2001/1/14 0:00,65 to 80+,Female,High school or equivalent,"D: 15,000 to 24,999",161619
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"A: 0 to 4,999",181482
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"C: 10,000 to 14,999",189839
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"F: 35,000 to 49,999",194888
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"C: 10,000 to 14,999",200365
+2001/1/14 0:00,65 to 80+,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",203800
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"C: 10,000 to 14,999",206941
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"E: 25,000 to 34,999",218789
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"H: 75,000 and over",227515
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"C: 10,000 to 14,999",231957
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"D: 15,000 to 24,999",233954
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"B: 5,000 to 9,999",238754
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"B: 5,000 to 9,999",239883
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"F: 35,000 to 49,999",245318
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","B: 5,000 to 9,999",255129
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"B: 5,000 to 9,999",266348
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"C: 10,000 to 14,999",272824
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"D: 15,000 to 24,999",277974
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","C: 10,000 to 14,999",278291
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"E: 25,000 to 34,999",288460
+2001/1/14 0:00,65 to 80+,Male,Bachelor's degree or higher,"H: 75,000 and over",294802
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"E: 25,000 to 34,999",318868
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"G: 50,000 to 74,999",322511
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"E: 25,000 to 34,999",340611
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","A: 0 to 4,999",343156
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","G: 50,000 to 74,999",344454
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"D: 15,000 to 24,999",352744
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"F: 35,000 to 49,999",357532
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"A: 0 to 4,999",359264
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","E: 25,000 to 34,999",371185
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"A: 0 to 4,999",376783
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","C: 10,000 to 14,999",389764
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","B: 5,000 to 9,999",404151
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"A: 0 to 4,999",405204
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"F: 35,000 to 49,999",418051
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","G: 50,000 to 74,999",423087
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"D: 15,000 to 24,999",453432
+2001/1/14 0:00,18 to 64,Male,No high school diploma,"D: 15,000 to 24,999",460129
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"E: 25,000 to 34,999",467906
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","F: 35,000 to 49,999",469153
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","D: 15,000 to 24,999",483518
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","H: 75,000 and over",495187
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","F: 35,000 to 49,999",495675
+2001/1/14 0:00,18 to 64,Male,High school or equivalent,"D: 15,000 to 24,999",520580
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","E: 25,000 to 34,999",528017
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"F: 35,000 to 49,999",531019
+2001/1/14 0:00,18 to 64,Male,"College, less than 4-yr degree","D: 15,000 to 24,999",556174
+2001/1/14 0:00,18 to 64,Female,"College, less than 4-yr degree","A: 0 to 4,999",581907
+2001/1/14 0:00,00 to 17,Male,No high school diploma,"A: 0 to 4,999",610313
+2001/1/14 0:00,00 to 17,Female,No high school diploma,"A: 0 to 4,999",639596
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"G: 50,000 to 74,999",660048
+2001/1/14 0:00,18 to 64,Female,High school or equivalent,"A: 0 to 4,999",670294
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"G: 50,000 to 74,999",682425
+2001/1/14 0:00,18 to 64,Female,No high school diploma,"A: 0 to 4,999",723208
+2001/1/14 0:00,18 to 64,Female,Bachelor's degree or higher,"H: 75,000 and over",953282
+2001/1/14 0:00,18 to 64,Male,Bachelor's degree or higher,"H: 75,000 and over",1628605
